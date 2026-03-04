@@ -6,7 +6,7 @@
 
 ## Slide
 |차시|주제|세부내용|자료|제작자|
-|-----|--------|-------------------|:---:|:------:|
+|-----|--------|-|:---:|:------:|
 |ch.01|Introduction|Time Complexity, Bruteforcing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/01-Introduction.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 |ch.02|Data Structure|Set, Map, Stack, Queue, Hashing|||
 |ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
