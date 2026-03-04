@@ -8,7 +8,7 @@
 |차시|주제|세부내용|자료|제작자|
 |-----|---|---|:---:|:------:|
 |ch.01|Introduction|Time Complexity, Bruteforcing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/01-Introduction.pdf)|[임승호](https://github.com/YIM2UL2ET)|
-|ch.02|Data Structure|Set, Map, Stack, Queue, Hashing|||
+|ch.02|Data Structure|Set, Map, Stack, Queue, Deque, Hashing|||
 |ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
 |ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, <br> Master Theorem|||
 |ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|||
@@ -17,8 +17,8 @@
 |ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|||
 |ch.09|Minimum Spanning Tree|Union Find, Minimum Spanning Tree, Kruskal, Prim|||
 |ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
-|app.01|Math for PS|GCD, LCM, Eratos Sieve, Primality Test, <br> Permutation, Combination|||
-|app.02|C++ for PS|class, namespace, STL, range-based for loops, <br> reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
+|app.01|Math for PS|Modulor, GCD, LCM, Eratos Sieve, Primality Test, <br> Permutation, Combination|||
+|app.02|C++ for PS|class, namespace, STL(iostream, containers), <br> range-based for loops, reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 
 
 ## Reference
