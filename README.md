@@ -6,11 +6,11 @@
 
 ## Slide
 |차시|주제|세부내용|자료|제작자|
-|-----|--------|-|:---:|:------:|
+|-----|---|---|:---:|:------:|
 |ch.01|Introduction|Time Complexity, Bruteforcing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/01-Introduction.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 |ch.02|Data Structure|Set, Map, Stack, Queue, Hashing|||
 |ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
-|ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, Master Theorem|||
+|ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, <br> Master Theorem|||
 |ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|||
 |ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|||
 |ch.07|Directed Acyclic Graph|Directed Acyclic Graph, Topological Sort|||
