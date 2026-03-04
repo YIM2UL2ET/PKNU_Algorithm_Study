@@ -11,11 +11,11 @@
 |ch.02|Data Structure|Set, Map, Stack, Queue, Hashing|||
 |ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
 |ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, Master Theorem|||
-|ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS), Greedy|||
+|ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|||
 |ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|||
-|ch.07|DAG|DAG, Topological Sort|||
-|ch.08|Tree & Priority Queue|Tree, Priority Queue|||
-|ch.09|MST|Union Find, MST, Kruskal, Prim|||
+|ch.07|Directed Acyclic Graph|Directed Acyclic Graph, Topological Sort|||
+|ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|||
+|ch.09|Minimum Spanning Tree|Union Find, Minimum Spanning Tree, Kruskal, Prim|||
 |ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
 |app.01|Math for PS|GCD, LCM, Eratos Sieve, Permutation, Combination, Primality Test|||
 |app.02|C++ for PS|class, namespace, STL, range-based for loops, reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
