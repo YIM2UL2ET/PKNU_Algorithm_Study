@@ -1,1 +1,31 @@
 # PKNU_Algorithm_Study
+부경대학교에서 26년 봄학기에 진행한 알고리즘 스터디 자료입니다.
+
+## Procedure
+매주 화요일, 목요일마다 강의실에서 알고리즘에 대한 강의 이후 연습문제 풀이 방식으로 진행
+
+## Slide
+|차시|주제|세부내용|자료|제작자|
+|---|---|---|:---:|:---:|
+|ch.01|Introduction|Time Complexity, Bruteforcing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/01-Introduction.pdf)|[임승호](https://github.com/YIM2UL2ET)|
+|ch.02|Data Structure|Set, Map, Stack, Queue, Hashing|||
+|ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
+|ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, Master Theorem|||
+|ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS), Greedy|||
+|ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|||
+|ch.07|DAG|DAG, Topological Sort|||
+|ch.08|Tree & Priority Queue|Tree, Priority Queue|||
+|ch.09|MST|Union Find, MST, Kruskal, Prim|||
+|ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
+|app.01|Math for PS|GCD, LCM, Eratos Sieve, Permutation, Combination, Primality Test|||
+|app.02|C++ for PS|class, namespace, STL, range-based for loops, reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
+
+
+## Reference
+- **[KU - AlKon Study](https://github.com/KU-AlKon/study)**
+- **[SSU - SCCC Study](https://github.com/justiceHui/SSU-SCCC-Study)**
+
+## License
+<a href=https://ccl.cckorea.org/about/><img src=https://github.com/KU-AlKon/study/assets/31026350/8ec33313-8d52-4663-8214-eed230c33ed2 width=100px></a>
+
+각 자료의 저작권은 제작자에게 있으며, 저작자표시-비영리-동일조건 변경 허락 (BY-NC-SA)에 따라 이용하실 수 있습니다.
