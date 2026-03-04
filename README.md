@@ -24,6 +24,7 @@
 ## Reference
 - **[KU - AlKon Study](https://github.com/KU-AlKon/study)**
 - **[SSU - SCCC Study](https://github.com/justiceHui/SSU-SCCC-Study)**
+- **[Introduction to Algorithm](https://www.hanbit.co.kr/store/books/look.php?p_code=B3917658037)**
 
 ## License
 <a href=https://ccl.cckorea.org/about/><img src=https://github.com/KU-AlKon/study/assets/31026350/8ec33313-8d52-4663-8214-eed230c33ed2 width=100px></a>
