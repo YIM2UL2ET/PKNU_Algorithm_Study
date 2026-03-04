@@ -17,7 +17,7 @@
 |ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|||
 |ch.09|Minimum Spanning Tree|Union Find, Minimum Spanning Tree, Kruskal, Prim|||
 |ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
-|app.01|Math for PS|GCD, LCM, Eratos Sieve, Permutation, Combination, Primality Test|||
+|app.01|Math for PS|GCD, LCM, Eratos Sieve, Primality Test, Permutation, Combination|||
 |app.02|C++ for PS|class, namespace, STL, range-based for loops, reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 
 
