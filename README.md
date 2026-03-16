@@ -9,7 +9,7 @@
 |-----|---|---|:---:|:------:|
 |ch.01|Introduction|Time Complexity, Bruteforcing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/01-Introduction.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 |ch.02|Data Structure|Set, Map, Stack, Queue, Deque, Hashing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/02-Data%20Structure.pdf)|[하승민](https://github.com/ccy0111)|
-|ch.03|Sort & Search|Sort, Two Pointer, Binary Search|||
+|ch.03|Sort & Search|Sort, Two Pointer, Binary Search|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/03-Sort%20and%20Search.pdf)|[하승민](https://github.com/ccy0111)|
 |ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, <br> Master Theorem|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/04-Recursion.pdf)|[이명준](https://github.com/eooiea)|
 |ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|||
 |ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|||
