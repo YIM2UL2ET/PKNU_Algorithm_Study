@@ -11,7 +11,7 @@
 |ch.02|Data Structure|Set, Map, Stack, Queue, Deque, Hashing|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/02-Data%20Structure.pdf)|[하승민](https://github.com/ccy0111)|
 |ch.03|Sort & Search|Sort, Two Pointer, Binary Search|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/03-Sort%20and%20Search.pdf)|[하승민](https://github.com/ccy0111)|
 |ch.04|Recursion|Recursion, Backtracking, Divide and Conquer, <br> Master Theorem|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/04-Recursion.pdf)|[이명준](https://github.com/eooiea)|
-|ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|||
+|ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/05-DP%20and%20Greedy.pdf)|[김인환](https://github.com/100050)|
 |ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|||
 |ch.07|Directed Acyclic Graph|Directed Acyclic Graph, Topological Sort|||
 |ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|||
