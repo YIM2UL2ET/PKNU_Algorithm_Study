@@ -3,7 +3,7 @@
 
 ## Procedure
 매주 화요일, 목요일마다 강의실에서 알고리즘에 대한 강의 이후 연습문제 풀이 방식으로 진행
-https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/06-graph.pdf
+
 ## Slide
 |차시|주제|세부내용|자료|제작자|
 |-----|---|---|:---:|:------:|
