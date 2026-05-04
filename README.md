@@ -14,7 +14,7 @@
 |ch.05|DP & Greedy|DP(Prefix Sum, Knapsack, LIS...), Greedy|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/05-DP%20and%20Greedy.pdf)|[김인환](https://github.com/100050)|
 |ch.06|Graph|Graph Theory, Graph Traversal(DFS, BFS)|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/06-graph.pdf)|[이명준](https://github.com/eooiea)|
 |ch.07|Directed Acyclic Graph|Directed Acyclic Graph, Topological Sort|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/07-DAG%20and%20Topological%20Sort.pdf)|[이명준](https://github.com/eooiea)|
-|ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|||
+|ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|[PDF](https://github.com/yim2ul2et/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/06-graph.pdf)|[하승민](https://github.com/ccy0111)|
 |ch.09|Minimum Spanning Tree|Union Find, Minimum Spanning Tree, Kruskal, Prim|||
 |ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
 |app.01|Math for PS|Modulor, GCD, LCM, Eratos Sieve, Primality Test, <br> Permutation, Combination|||
